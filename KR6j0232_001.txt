@@ -1,26 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:24.846075
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:37
 #+TITLE: 呪五首
 #+PROPERTY: CBETA_ID T20n1034
 #+PROPERTY: ID KR6j0232
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1034
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0232_T_001-0017a> 
 #+PROPERTY: JUAN 1
-No.1034[cf.Nos.1035,1036,¶
-901(Fasc.5)]¶
-
- 呪五首¶
+No. 1034 [cf. Nos. 1035, 1036,¶
+ 901(Fasc. 5)]¶
+呪五首¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
-1能滅眾罪千轉陀羅尼咒
-:PROPERTIES:
-:head: 能滅眾罪千轉陀羅尼呪
-:END:
-¶
+* 能滅眾罪千轉陀羅尼呪¶
 
 納慕曷喇怛那怛喇夜(余賀反)耶(一余何反)納慕阿¶
 喇耶(二余何反)縛(夫何反)盧枳低濕筏囉耶(三余何反)步地¶
@@ -38,39 +33,23 @@ No.1034[cf.Nos.1035,1036,¶
 七夫何反)薩縛(夫何反)達磨(三十八)縛(夫何反)蒲達泥(三十九)¶
 莎訶(四十)¶
 
-2六字咒
-:PROPERTIES:
-:head: 六字呪
-:END:
-¶
+* 六字呪¶
 
 納慕阿利耶(余何反)曼殊室利曳　瓮縛(夫何反)¶
 繫淡納莫¶
 
-3七俱胝佛咒
-:PROPERTIES:
-:head: 七俱胝佛呪
-:END:
-¶
+* 七俱胝佛呪¶
 
 納莫颯多南(去)三藐三勃陀俱胝南(去)怛姪¶
 他　唵折麗　主麗准第莎訶¶
 
-4一切如來隨心咒
-:PROPERTIES:
-:head: 一切如來隨心呪
-:END:
-¶
+* 一切如來隨心呪¶
 
 納莫薩縛　怛他阿揭多頡唎達耶(途何反)阿奴
 <pb:KR6j0232_T_001-0017b>¶
 揭帝怛姪他瓮屈(居勿反)挊岐(上)尼莎呵¶
 
-5觀自在菩薩隨心咒
-:PROPERTIES:
-:head: 觀自在菩薩隨心呪
-:END:
-¶
+* 觀自在菩薩隨心呪¶
 
 南慕曷喇怛那怛邏夜(余賀反)耶(余何反)納莫阿唎¶
 耶(余何反)縛(夫何反)盧枳低濕筏囉耶(余何反)步地¶
